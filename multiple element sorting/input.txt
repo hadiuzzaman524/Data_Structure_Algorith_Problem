@@ -1,0 +1,4 @@
+24 05 1982 Sunny
+24 05 1980 Cecilia
+31 12 1999 End of 20th century
+01 01 0001 Start of modern calender
