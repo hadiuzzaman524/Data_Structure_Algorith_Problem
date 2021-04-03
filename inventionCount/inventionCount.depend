@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615886646 source:e:\data_structure_algorith_problem\inventioncount\main.cpp
+	<iostream>
+
+1615887712 source:e:\data_structure_algorith_problem\inventioncount\library_fine.cpp
+	<bits/stdc++.h>
+
