@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1625653079 source:e:\data_structure_algorith_problem\assignment\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string.h>
+

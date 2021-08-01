@@ -1,0 +1,10 @@
+2
+3
+a
+b
+aab
+aab
+2
+a
+ba
+aab

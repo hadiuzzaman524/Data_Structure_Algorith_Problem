@@ -1,0 +1,10 @@
+AC123 40 15 Dina Jamal
+AC231 50 25 Erin Lim
+AC156 56 28 Edi Irwan
+AC145 45 25 Farez Zali
+AC234 58 29 Hairi Abdul
+AC543 58 26 Irwan Khalel
+AC212 50 25 Iza Ahmad
+AC213 55 29 Sulaiman Adi
+AC214 50 27 Sulthan Kareem
+AC215 56 27 Zaki Fateh
